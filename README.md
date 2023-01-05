@@ -1,2 +1,3 @@
-# instagram-Clone
-Clon de instagram con React js
+# instagram-Clon
+
+Creación de un clon de instagram / login para prácticas de responsive design
